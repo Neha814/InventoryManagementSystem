@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LS Inventory Pro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="burro">BURRO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="select_store">Please Select Store :</string>
+    <string name="inventory_count">Open Inventory Counts :</string>
+    <string name="venice_burro">1. Venice Burro</string>
+    <string name="bobby6_burro">2. Bobby Burro</string>
+    <string name="malibu_burro">3. Malibu Burro</string>
+    <string name="westlake_burro">4. WestLake Burro</string>
+    <string name="take_inventory">Take Inventory</string>
+    <string name="verfi_label">Inventory Verification</string>
+    <string name="update_db">Update Local DB  </string>
+    <string name="last_updated_date">(Last: 4/5/15 @ 1:29 pm) </string>
+    <string name="create_inv_count">Create Inventory Count</string>
+    <string name="create">Create</string>
+    <string name="inventory_detail">Scan item to be inventoried or press ESC to complete entering items.</string>
+    <string name="text1">You are about to push XXXXX items to the XXX Inventory.Please confirm by typing CONFIRM.</string>
+    <string name="text2">This process could take some time,you will receive a CONFIRMED alert when complete.Please be patient.</string>
+
+</resources>
